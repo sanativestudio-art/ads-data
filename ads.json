@@ -1,0 +1,34 @@
+{
+  "slots": [
+    {
+      "enabled": true,
+      "title": "Buraya reklam verebilirsiniz",
+      "subtitle": "Detay için tıklayın",
+      "action": "mailto:sanativestudio@gmail.com"
+    },
+    {
+      "enabled": false,
+      "title": "",
+      "subtitle": "",
+      "action": ""
+    },
+    {
+      "enabled": false,
+      "title": "",
+      "subtitle": "",
+      "action": ""
+    },
+    {
+      "enabled": false,
+      "title": "",
+      "subtitle": "",
+      "action": ""
+    },
+    {
+      "enabled": false,
+      "title": "",
+      "subtitle": "",
+      "action": ""
+    }
+  ]
+}
