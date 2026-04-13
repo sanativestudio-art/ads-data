@@ -2,15 +2,19 @@
   "slots": [
     {
       "enabled": true,
-      "title": "Test Reklam",
-      "subtitle": "Tıklayın",
+      "title": "XYZ Oto Servis",
+      "subtitle": "7/24 Açık",
+      "contact": "☎ 0544 000 00 00",
+      "address": "Nilüfer / Bursa",
       "image": "https://raw.githubusercontent.com/sanativestudio-art/ads-data/main/ad1.png",
-      "action": "mailto:sanativestudio@gmail.com"
+      "action": ""
     },
     {
       "enabled": false,
       "title": "",
       "subtitle": "",
+      "contact": "",
+      "address": "",
       "image": "",
       "action": ""
     },
@@ -18,6 +22,8 @@
       "enabled": false,
       "title": "",
       "subtitle": "",
+      "contact": "",
+      "address": "",
       "image": "",
       "action": ""
     },
@@ -25,6 +31,8 @@
       "enabled": false,
       "title": "",
       "subtitle": "",
+      "contact": "",
+      "address": "",
       "image": "",
       "action": ""
     },
@@ -32,6 +40,8 @@
       "enabled": false,
       "title": "",
       "subtitle": "",
+      "contact": "",
+      "address": "",
       "image": "",
       "action": ""
     }
