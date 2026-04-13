@@ -2,9 +2,9 @@
   "slots": [
     {
       "enabled": true,
-      "title": "Buraya reklam verebilirsiniz",
-      "subtitle": "Detay için tıklayın",
-      "image": "",
+      "title": "Test Reklam",
+      "subtitle": "Tıklayın",
+      "image": "https://raw.githubusercontent.com/sanativestudio-art/ads-data/main/ad1.png",
       "action": "mailto:sanativestudio@gmail.com"
     },
     {
