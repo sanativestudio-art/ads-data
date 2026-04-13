@@ -4,30 +4,35 @@
       "enabled": true,
       "title": "Buraya reklam verebilirsiniz",
       "subtitle": "Detay için tıklayın",
+      "image": "",
       "action": "mailto:sanativestudio@gmail.com"
     },
     {
       "enabled": false,
       "title": "",
       "subtitle": "",
+      "image": "",
       "action": ""
     },
     {
       "enabled": false,
       "title": "",
       "subtitle": "",
+      "image": "",
       "action": ""
     },
     {
       "enabled": false,
       "title": "",
       "subtitle": "",
+      "image": "",
       "action": ""
     },
     {
       "enabled": false,
       "title": "",
       "subtitle": "",
+      "image": "",
       "action": ""
     }
   ]
